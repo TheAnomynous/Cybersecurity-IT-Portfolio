@@ -34,4 +34,5 @@ Welcome to my portfolio! This repository showcases my hands-on technical labs, i
 
 ## 🚀 Connect With Me
 * **Email:** niazimanan17@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** https://www.linkedin.com/in/manan-niazi-142738425/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0q3ywBnEQT6q0VHcKVidRA%3D%3D
+* **Credly:** https://www.credly.com/users/manan-niazi
